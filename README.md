@@ -14,7 +14,7 @@ I am Smitesh👋, I have 2 years of industry experience in Data engineering and 
 # General Idea on my pinned projects
 
 ## 1. Unsupervised-Machine-Learning-For-Solar-Site-Selection  :
-# Tech Stack : [QGIS, PyTorch, Numpy, Pandas, Searborn, Spacy, LaTEX, GeoPandas, ,API services for data]
+### Tech Stack : [QGIS, PyTorch, Numpy, Pandas, Searborn, Spacy, LaTEX, GeoPandas,API services for data]
 
 - Utilized geospatial data to select optimal sites for solar energy projects, leveraging advanced deep learning technique.
 - Analysed Geological Information Systems (GIS) data and developed a machine learning pipeline that involved preprocessing GIS data from multiple web databases, modeling the data, and staging it for input into a deep learning model.
