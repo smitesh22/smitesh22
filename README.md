@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-**smitesh22/smitesh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me 
 
-- 🔭 I’m currently working with orcawise as a Data Science Intern
+- 🔭 I’m currently working with Orcawise[https://orcawise.com/] as a Data Science Intern
 - 🌱 I’m currently learning Azure services for data engineering and preparing for Azure Data Engineer Associate Exam
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
