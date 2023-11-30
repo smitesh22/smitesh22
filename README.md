@@ -8,7 +8,7 @@ I am Smitesh👋, I have 2 years of industry experience in Data engineering and 
 - ✒️ As long as data is involved in a problem statement, I will dive deep to solve it!
 - 🔭 I’m currently working with Orcawise[https://orcawise.com/] as a Data Science Intern
 - 🌱 I’m currently learning Azure services for data engineering and preparing for Azure Data Engineer Associate Exam
-- 📫 How to reach me: smitesh22@gmail.com / [Linkedin](https://www.linkedin.com/in/smitesh-patil/)
+- 📫 How to reach me: [Email](smitesh22@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/)
 
 
 ## General Idea on my pinned projects
