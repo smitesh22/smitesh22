@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Smitesh👋, I have 2 years of industry experience in Data engineering and Data Science.I have Work experience in collaboratively developing data warehousing solutions using SQL in Informatica PowerCenter, as well as in data visualization with Tableau. I am committed ✊ to building expertise in data analytics, statistical concepts, and industry-relevant engineering tools. Highly skilled in deep learning libraries such as NumPy, Matplotlib, Keras, PyTorch, TensorFlow, and others. Currently, I am working with Orcawise and developing a custom NLU system.
+I am Smitesh👋, I have 2 years of industry experience in Data engineering and Data Science.I have work experience in collaboratively developing data warehousing solutions using SQL in Informatica PowerCenter, as well as in data visualization with Tableau. I am committed ✊ to building expertise in data analytics, statistical concepts, and industry-relevant engineering tools. Highly skilled in deep learning libraries such as NumPy, Matplotlib, Keras, PyTorch, TensorFlow, and others. Currently, I am working with Orcawise and developing a custom NLU system.
 
 
 ## About me 
