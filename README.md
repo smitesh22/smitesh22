@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-I am Smitesh👋, I have 2 years of industry experience in Data engineering and Data Science.I have work experience in collaboratively developing data warehousing solutions using SQL in Informatica PowerCenter, as well as in data visualization with Tableau. I am committed ✊ to building expertise in data analytics, statistical concepts, and industry-relevant engineering tools. Highly skilled in deep learning libraries such as NumPy, Matplotlib, Keras, PyTorch, TensorFlow, and others. Currently, I am working with Orcawise and developing a custom NLU system.
-
-
+I am Smitesh👋, I am a software engineer with extensive experience in developing and optimizing APIs using Node.js, ExpressJS, 
+and PostgreSQL. I have experience in building scalable data solutions and ETL pipelines using SQL and 
+Informatica PowerCenter. Currently, I am working with Adaptempy
 ## About me 
 
 - ✒️ As long as data is involved in a problem statement, I will dive deep to solve it!
-- 🔭 I’m currently working with Orcawise[https://orcawise.com/] as a Data Science Intern and looking for full time opportunities.
+- 🔭 I’m currently working with Adaptempy on develoving adaptive learning solutions.
 - 🌱 I’m currently learning Azure services for data engineering and preparing for Azure Data Engineer Associate Exam.
 - 📫 How to reach me: [Email](smitesh22@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
 
+My Current CV : https://drive.google.com/file/d/1cqbQR2qq1jEDagzQ9i1N7kCVGnLDy3bH/view?usp=sharing
 ![](https://komarev.com/ghpvc/?username=smitesh22&color=blueviolet)
 
 # General Idea on my pinned projects
