@@ -6,7 +6,7 @@ Informatica PowerCenter. Currently, I am working with Adaptempy
 ## About me 
 
 - ✒️ As long as data is involved in a problem statement, I will dive deep to solve it!
-- 🔭 I’m currently working with Adaptempy on develoving adaptive learning solutions.
+- 🔭 I’m currently working with Adaptemy on develoving adaptive learning solutions.
 - 🌱 I’m currently learning Azure services for data engineering and preparing for Azure Data Engineer Associate Exam.
 - 📫 How to reach me: [Email](smitesh22@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
 
