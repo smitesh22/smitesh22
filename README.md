@@ -10,7 +10,6 @@ Informatica PowerCenter. Currently, I am working with Adaptempy
 - 🌱 I’m currently learning Azure services for data engineering and preparing for Azure Data Engineer Associate Exam.
 - 📫 How to reach me: [Email](smitesh22@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
 
-My Current CV : https://drive.google.com/file/d/1cqbQR2qq1jEDagzQ9i1N7kCVGnLDy3bH/view?usp=sharing
 
 ![](https://komarev.com/ghpvc/?username=smitesh22&color=blueviolet)
 
