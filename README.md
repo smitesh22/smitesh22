@@ -13,12 +13,12 @@ Informatica PowerCenter. Currently, I am working with Adaptempy
 
 # General Idea on my pinned projects
 ## 1. Ledgefast  :
-•	Developing Ledgefast, an automated solution for managing invoices, bills, and receipts by utilizing LLMs in the backend to efficiently convert them into Excel documents.
-•	Built the frontend with Vue.js, deployed on AWS S3 with static web hosting, and served via CloudFront for optimized content delivery.
-•	Developed the backend in TypeScript, deployed as a serverless function on AWS Lambda, exposed through API Gateway, with PostgreSQL on AWS RDS as the database
-•	Designed and implemented a deployment pipeline using Terraform to define and manage cloud infrastructure, while leveraging GitHub Actions to automate deployments based on Git branch rules.
+-	Developing Ledgefast, an automated solution for managing invoices, bills, and receipts by utilizing LLMs in the backend to efficiently convert them into Excel documents.
+-	Built the frontend with Vue.js, deployed on AWS S3 with static web hosting, and served via CloudFront for optimized content delivery.
+-	Developed the backend in TypeScript, deployed as a serverless function on AWS Lambda, exposed through API Gateway, with PostgreSQL on AWS RDS as the database
+-	Designed and implemented a deployment pipeline using Terraform to define and manage cloud infrastructure, while leveraging GitHub Actions to automate deployments based on Git branch rules.
 * Backend API is repo named : NarathMuni
-* FrontEnd repo is name : Billeasr //TODO: rename to Ledgefast
+* FrontEnd repo is name : Billease //TODO: rename to Ledgefast
 
 ## 2. Unsupervised-Machine-Learning-For-Solar-Site-Selection  :
 ### Tech Stack : [Python, QGIS, PyTorch, Numpy, Pandas, Searborn, Spacy, LaTEX, GeoPandas,API services for data]
