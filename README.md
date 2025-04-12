@@ -6,7 +6,7 @@ Informatica PowerCenter. Currently, I am working with Adaptempy
 ## About me 
 
 - 🔭 I’m currently working with Adaptemy on develoving adaptive learning solutions.
-- 📫 How to reach me: [Email](smitesh22@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
+- 📫 How to reach me: [Email](smitesh.n.patil@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
 
 
 ![](https://komarev.com/ghpvc/?username=smitesh22&color=blueviolet)
