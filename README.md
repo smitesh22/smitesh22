@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 I am Smitesh👋, I am a software engineer with extensive experience in developing and optimizing APIs using Node.js, ExpressJS, 
-and PostgreSQL. I have experience in building scalable data solutions and ETL pipelines using SQL and 
-Informatica PowerCenter. Currently, I am working with Adaptempy
+and PostgreSQL and Large Scale Data Ingestion in Databricks, Snowflake and DBT. Currently, I am working with Signify Health
 ## About me 
 
-- 🔭 I’m currently working with Adaptemy on develoving adaptive learning solutions.
 - 📫 How to reach me: [Email](smitesh.n.patil@gmail.com) / [Linkedin](https://www.linkedin.com/in/smitesh-patil/).
 
 
